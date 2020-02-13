@@ -3,6 +3,7 @@
 Kami adalah salah satu penyedia jasa layanan paket wisata maupun paket sewa mobil di banyuwangi.
 Untuk lebih lengkap silahkan kunjungi kami di AyoRekreasi.Com
 [Ayo Rekreasi](http://ayorekreasi.com).
+![AyoRekreasi.Com](https://www.ayorekreasi.com/img/bbb%20-%20Copy.png)
 
 ### Markdown
 
