@@ -1,8 +1,8 @@
 ## Selamat Datang Di AyoRekreasi.Com Banyuwangi
 
-You can use the [editor on GitHub](https://github.com/ayorek-del/ayorekreasi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kami adalah salah satu penyedia jasa layanan paket wisata maupun paket sewa mobil di banyuwangi.
+Untuk lebih lengkap silahkan kunjungi kami di AyoRekreasi.Com
+[Ayo Rekreasi](http://ayorekreasi.com).
 
 ### Markdown
 
